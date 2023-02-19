@@ -1,4 +1,4 @@
-### Hi there 👋. I am Sijun HE.
+### Hi there 👋. I am Sijun He.
 
 My interest lies at the intersection of NLP and Deep Learning. I am currently working on [PaddlePaddle](https://www.paddlepaddle.org.cn/en) at [Baidu](https://baidu.com/). Prior to that, I have had the fortune of working at [SenseTime](https://www.sensetime.com/en), [Twitter Cortex](https://cortex.twitter.com/) and [Autodesk](https://www.autodesk.com/).
 
